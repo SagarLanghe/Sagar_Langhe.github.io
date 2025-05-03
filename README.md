@@ -70,22 +70,22 @@ To understand what it should contain, we need to figure out what questions we ne
    ### image : row count check
    ![1_row_count_check](https://github.com/user-attachments/assets/974274fb-26c6-43e3-95da-e082a53d285a)
    
-   ### image:column count check
+   image: column count check
    ![2_column_count_check](https://github.com/user-attachments/assets/e31b239f-999c-4330-a852-312fcac68831)
   
-   ### image: data type check
+    image: data type check
     ![3_data_type_check](https://github.com/user-attachments/assets/c76c6d65-7ce3-403e-9be6-1c142291cd63)
    
    image: duplicate_records_check
    ![4_duplicate_records_check](https://github.com/user-attachments/assets/5ca335c7-0e67-4c2f-a4fb-d1c2376e8ea5)
   
-    ###image: youtubers with most subs
+    image: youtubers with most subs
    ![youtubers_with_the_most_subs](https://github.com/user-attachments/assets/20d5f50f-bdd4-4a34-a4b5-32c026aa2b5d)
   
-    ###image: youtubers with most videos
+    image: youtubers with most videos
    ![youtubers_with_the_most_videos](https://github.com/user-attachments/assets/7eadf9b6-4347-4018-b211-031042eb6993)
 
-    ###image: youtubers with most views
+    image: youtubers with most views
    ![youtubers_with_the_most_views](https://github.com/user-attachments/assets/bc0bd94b-c4b9-4eaa-9c5d-22774e30c1f4)
 
 
