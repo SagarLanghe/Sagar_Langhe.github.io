@@ -65,9 +65,9 @@ To understand what it should contain, we need to figure out what questions we ne
 5. Which 3 channels have the highest views per subscriber ratio?
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
-7. #Power BI Dashboard
+ # Power BI Dashboard
 
-8. image: ![powerbi_dashboard](https://github.com/user-attachments/assets/72ddeacf-3835-439a-9d32-83eadc578cc4)
+ image: ![powerbi_dashboard](https://github.com/user-attachments/assets/72ddeacf-3835-439a-9d32-83eadc578cc4)
 
 
 
